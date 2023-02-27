@@ -7,6 +7,7 @@ header{
     background-position: center;
     background-size: 600px;
     position: relative;
+
 }
 
 #imglogo{
@@ -18,10 +19,15 @@ header{
 
 /* MAIN */
 
-main{
+.main-conteiner{
     width: 100%;
 }
 
+.conteiner{
+    width: 71%;
+    height: 30px;
+    margin:10px auto;
+}
 
 #h1title{
     margin-bottom: 5px;
