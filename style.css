@@ -75,7 +75,18 @@ table{
 
 
 /* FOOTER */
+    #pgray{
+        color: gray;
+        font-weight: bold;
+    }
 
+    #divfoto1{
+        background-image: url(img/monitor.jpg);
+        background-size: contain;
+        width: 300px;
+        height: 200px;
+    }
 
+    #divfoto2{
 
-/* ALTRO */
+    }
