@@ -53,11 +53,11 @@ header{
 }
 
 
-
     /* TABLE */
 
 table{
     width: 100%;
+    border-collapse: collapse;
 }
 
 #tr1{
@@ -69,7 +69,7 @@ table{
     background-color: lightblue;
 }
 
-#tdlungo{
+#td{
     width: 50%;
 }
 
@@ -77,6 +77,13 @@ table{
 /* FOOTER */
     #pgray{
         color: gray;
+        font-weight: bold;
+    }
+
+    .pdiv{
+        color: white;
+        margin-left: 10px;
+        margin-top: 10px;
         font-weight: bold;
     }
 
@@ -88,5 +95,8 @@ table{
     }
 
     #divfoto2{
-
+        background-image: url(img/graph.jpg);
+        background-size: contain;
+        width: 300px;
+        height: 200px;
     }
