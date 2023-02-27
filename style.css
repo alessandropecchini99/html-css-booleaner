@@ -52,6 +52,24 @@ header{
     background-color: yellow;
 }
 
+    /* TABLE */
+table{
+    width: 100%;
+}
+
+#tr1{
+    background-color: rgb(52, 163, 248);
+    color: white;
+}
+
+.tr2{
+    background-color: lightblue;
+}
+
+#tdlungo{
+    width: 50%;
+}
+
 
 /* FOOTER */
 
