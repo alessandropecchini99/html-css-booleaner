@@ -48,11 +48,14 @@ header{
     margin: 0%;
 }
 
-#importantspan{
+.importantspan{
     background-color: yellow;
 }
 
+
+
     /* TABLE */
+
 table{
     width: 100%;
 }
