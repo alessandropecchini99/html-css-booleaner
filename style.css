@@ -1,3 +1,7 @@
+body{
+    margin: 0%;
+}
+
 /* HEADER */
 
 header{
@@ -19,7 +23,8 @@ header{
 /* MAIN */
 
 main{
-    width: 100%;
+    width: 90%;
+    padding-inline: 10px;
 }
 
 
@@ -79,6 +84,10 @@ table{
 
 
 /* FOOTER */
+
+    footer{
+        padding-inline: 10px;
+    }
 
     #pgray{
         color: gray;
